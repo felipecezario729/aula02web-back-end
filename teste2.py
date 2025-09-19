@@ -1,0 +1,1 @@
+print("hoje é Sexta Feira")
